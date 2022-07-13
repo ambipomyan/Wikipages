@@ -1,7 +1,11 @@
 This repo is for my WikiPages -- Samsh Wiki tag to find more!  
-- Git and Github  
-- Neurobiology Notes(CHN)(DONE)
-- Python envs for ML
-- Omp target code example
-- Notes for getting access to structure entries in C
-- Numba and GPU parallelism in Python
+- lecture notes
+  - Neurobiology Notes(CHN)
+- software and tools
+  - Git and Github  
+- C programming
+  - Omp target code example
+  - Notes for getting access to structure entries in C
+- Python programming
+  - Python envs for ML
+  - Numba and GPU parallelism in Python(TODO)
