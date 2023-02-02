@@ -6,7 +6,7 @@ This repo is for my WikiPages -- Samsh Wiki tag to find more!
 - C programming
   - Omp target code example
   - Notes for getting access to structure entries in C
-  - Run and profile AMReX Castro(TODO)
+  - Run and profile AMReX Castro
 - Python programming
   - Python envs for ML
   - Numba and GPU parallelism in Python
