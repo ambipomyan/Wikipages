@@ -3,6 +3,7 @@ This repo is for my WikiPages -- Samsh Wiki tag to find more!
   - Neurobiology Notes(CHN)
 - software and tools
   - Git and Github  
+  - Clang/llvm 17.0 enabling OpenMP runtime
 - C programming
   - Omp target code example
   - Notes for getting access to structure entries in C
