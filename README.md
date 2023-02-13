@@ -6,6 +6,7 @@ This repo is for my WikiPages -- Samsh Wiki tag to find more!
   - Clang/llvm 17.0 install enabling OpenMP runtime
   - CUDA 12.0 install including CUDA-drivers and CUDA-toolkit
   - openCV 4.7.0 install
+  - Nsight system
 - C programming
   - Omp target code example
   - Notes for getting access to structure entries in C
