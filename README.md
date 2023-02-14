@@ -4,7 +4,7 @@ This repo is for my WikiPages -- Samsh Wiki tag to find more!
 - software and tools
   - Git and Github  
   - Clang/llvm 17.0 install enabling OpenMP runtime
-  - CUDA 12.0 install including CUDA-drivers and CUDA-toolkit
+  - CUDA 12.0 install including CUDA-drivers, CUDA-toolkit, and cuDNN
   - openCV 4.7.0 install
   - Nsight system
 - C programming
