@@ -7,6 +7,7 @@ This repo is for my WikiPages -- Samsh Wiki tag to find more!
   - CUDA 12.0 install including CUDA-drivers, CUDA-toolkit, and cuDNN
   - openCV 4.7.0 install
   - Nsight system
+  - Zoom install on ubuntu
 - C programming
   - Omp target code example
   - Notes for getting access to structure entries in C
