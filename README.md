@@ -1,4 +1,4 @@
-This repo is for my WikiPages -- Samsh Wiki tag to find more!  
+This repo is for my WikiPages -- Smash Wiki tag to find more!  
 - lecture notes
   - Neurobiology Notes(CHN)
 - software and tools
