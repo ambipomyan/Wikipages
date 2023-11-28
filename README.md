@@ -6,7 +6,7 @@ This repo is for my WikiPages -- Smash Wiki tag to find more!
   - Clang/llvm 17.0 install enabling OpenMP runtime
   - CUDA 12.0 install including CUDA-drivers, CUDA-toolkit, and cuDNN
   - openCV 4.7.0 install
-  - Nsight system(TODOs)
+  - Nsight Systems
 - C programming
   - Omp target code example
   - Notes for getting access to structure entries in C
